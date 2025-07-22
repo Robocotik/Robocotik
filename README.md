@@ -66,9 +66,9 @@
   <img src="https://skillicons.dev/icons?i=json" width="40" height="40" alt="JSON"/>
 </div>
 
-<div align="center">
+<div align="center" style="margin: 10px 0px;">
   
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Robocotik" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Robocotik&theme=tokyonight" />
 
 </div>
 
