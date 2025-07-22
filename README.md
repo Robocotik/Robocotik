@@ -17,9 +17,9 @@
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 15px;">
   <!-- Telegram -->
- <a href="https://t.me/ADmi_OK" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="40" height="40"/>
-  </a>
+<a href="https://t.me/ADmi_OK" target="_blank">
+  <img src="https://telegram.org/img/t_logo.svg" width="40" height="40" alt="Telegram"/>
+</a>
   
   <!-- Email -->
   <a href="mailto:alexander.starkin@gmail.com">
