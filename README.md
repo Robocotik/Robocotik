@@ -5,27 +5,24 @@
 ### About me
 
 * Frontent Developer
-Core stack: React | Next JS | Typescript
-Mainly focused on Frontend & FullStack
-BMSTU Student ICS5(3rd year)
-I am open to getting involved in new interesting projects. Please write to the contacts above. I will be glad to any acquaintances and suggestions)
+* Core stack: React | Next JS | Typescript
+* Mainly focused on Frontend & FullStack
+* BMSTU Student ICS5(3rd year)
+* I am open to getting involved in new interesting projects.
+* Please write to the contacts below. I will be glad to any acquaintances and suggestions)
 
 ### 📫 Contacts
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <!-- Telegram -->
-  <a href="https://t.me/ADmi_OK" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="40" height="40" style="border-radius: 8px;"/>
-  </a>
   
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/ваш_профиль" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" style="border-radius: 8px;"/>
-  </a>
+  <!-- Telegram -->
+<a href="https://t.me/ADmi_OK" target="_blank">
+  <img src="https://telegram.org/img/t_logo.png" width="40" height="40" style="border-radius: 8px;"/>
+</a>
   
   <!-- Email -->
   <a href="mailto:alexander.starkin@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" style="border-radius: 8px;"/>
+    <img src="https://simpleicons.org/icons/gmail.svg" width="40" height="40" style="border-radius: 8px; background: #EA4335; padding: 8px;"/>
   </a>
 </div>
 
@@ -43,15 +40,11 @@ I am open to getting involved in new interesting projects. Please write to the c
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL" height="28" />
 </div>
 
----
-
 ## Databases
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL" height="28" />
 </div>
-
----
 
 ## Tools/Technology
 
@@ -63,8 +56,8 @@ I am open to getting involved in new interesting projects. Please write to the c
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git" height="28" />
 </div>
 
----
+<div align="center">
 
-<div style="display: flex; justify-content: center;">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Robocotik&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Robocotik&show_icons=true&theme=radical&title_color=9d4edd&text_color=ffffff&icon_color=e0aaff&bg_color=3a0ca3&border_color=7b2cbf)
+
 </div>
