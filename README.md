@@ -16,12 +16,12 @@
 <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 15px;">
   <!-- Telegram -->
   <a href="https://t.me/ADmi_OK" target="_blank">
-    <img src="https://simpleicons.org/icons/telegram.svg" width="40" height="40" style="border-radius: 8px; background: #26A5E4; padding: 8px;"/>
+    <img src="https://skillicons.dev/icons?i=telegram" width="40" height="40"/>
   </a>
   
   <!-- Email -->
   <a href="mailto:alexander.starkin@gmail.com">
-    <img src="https://simpleicons.org/icons/gmail.svg" width="40" height="40" style="border-radius: 8px; background: #EA4335; padding: 8px;"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/>
   </a>
 </div>
 
@@ -29,36 +29,36 @@
 
 ## Languages
 <div style="display: flex; gap: 10px; flex-wrap: wrap; margin: 10px 0;">
-  <img src="https://simpleicons.org/icons/javascript.svg" width="40" height="40" style="border-radius: 8px; background: #F7DF1E; padding: 8px;"/>
-  <img src="https://simpleicons.org/icons/typescript.svg" width="40" height="40" style="border-radius: 8px; background: #3178C6; padding: 8px;"/>
-  <img src="https://simpleicons.org/icons/html5.svg" width="40" height="40" style="border-radius: 8px; background: #E34F26; padding: 8px;"/>
-  <img src="https://simpleicons.org/icons/css3.svg" width="40" height="40" style="border-radius: 8px; background: #1572B6; padding: 8px;"/>
-  <img src="https://simpleicons.org/icons/cplusplus.svg" width="40" height="40" style="border-radius: 8px; background: #00599C; padding: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++"/>
 </div>
 
 ## Frontend
 <div style="display: flex; gap: 10px; flex-wrap: wrap; margin: 10px 0;">
-  <img src="https://simpleicons.org/icons/react.svg" width="40" height="40" style="border-radius: 8px; background: #61DAFB; padding: 8px;"/>
-  <img src="https://simpleicons.org/icons/nextdotjs.svg" width="40" height="40" style="border-radius: 8px; background: #000000; padding: 8px;"/>
-  <img src="https://simpleicons.org/icons/vite.svg" width="40" height="40" style="border-radius: 8px; background: #646CFF; padding: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=vite" width="40" height="40" alt="Vite"/>
 </div>
 
 ## Backend & Databases
 <div style="display: flex; gap: 10px; flex-wrap: wrap; margin: 10px 0;">
-  <img src="https://simpleicons.org/icons/django.svg" width="40" height="40" style="border-radius: 8px; background: #092E20; padding: 8px;"/>
-  <img src="https://simpleicons.org/icons/postgresql.svg" width="40" height="40" style="border-radius: 8px; background: #4169E1; padding: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="Django"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL"/>
 </div>
 
 ## Tools & DevOps
 <div style="display: flex; gap: 10px; flex-wrap: wrap; margin: 10px 0;">
-  <img src="https://simpleicons.org/icons/git.svg" width="40" height="40" style="border-radius: 8px; background: #F05032; padding: 8px;"/>
-  <img src="https://simpleicons.org/icons/docker.svg" width="40" height="40" style="border-radius: 8px; background: #2496ED; padding: 8px;"/>
-  <img src="https://simpleicons.org/icons/nginx.svg" width="40" height="40" style="border-radius: 8px; background: #009639; padding: 8px;"/>
-  <img src="https://simpleicons.org/icons/cmake.svg" width="40" height="40" style="border-radius: 8px; background: #064F8C; padding: 8px;"/>
-  <img src="https://simpleicons.org/icons/npm.svg" width="40" height="40" style="border-radius: 8px; background: #CB3837; padding: 8px;"/>
-  <img src="https://simpleicons.org/icons/yarn.svg" width="40" height="40" style="border-radius: 8px; background: #2C8EBB; padding: 8px;"/>
-  <img src="https://simpleicons.org/icons/swagger.svg" width="40" height="40" style="border-radius: 8px; background: #85EA2D; padding: 8px;"/>
-  <img src="https://simpleicons.org/icons/json.svg" width="40" height="40" style="border-radius: 8px; background: #5E5E5E; padding: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" alt="Nginx"/>
+  <img src="https://skillicons.dev/icons?i=cmake" width="40" height="40" alt="CMake"/>
+  <img src="https://skillicons.dev/icons?i=npm" width="40" height="40" alt="npm"/>
+  <img src="https://skillicons.dev/icons?i=yarn" width="40" height="40" alt="Yarn"/>
+  <img src="https://skillicons.dev/icons?i=swagger" width="40" height="40" alt="Swagger"/>
+  <img src="https://skillicons.dev/icons?i=json" width="40" height="40" alt="JSON"/>
 </div>
 
 <div align="center">
