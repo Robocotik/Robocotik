@@ -65,8 +65,3 @@
   <img src="https://skillicons.dev/icons?i=json" width="40" height="40" alt="JSON"/>
 </div>
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Robocotik&show_icons=true&theme=radical&title_color=9d4edd&text_color=ffffff&icon_color=e0aaff&bg_color=3a0ca3&border_color=7b2cbf)
-
-</div>
