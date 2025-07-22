@@ -1,4 +1,6 @@
+<div align="center">
 ## Hi there 👋 I'm Alexander
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Robocotik&color=blue)
 
@@ -15,8 +17,8 @@
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 15px;">
   <!-- Telegram -->
-  <a href="https://t.me/ADmi_OK" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" width="40" height="40"/>
+ <a href="https://t.me/ADmi_OK" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="40" height="40"/>
   </a>
   
   <!-- Email -->
