@@ -12,7 +12,8 @@
 * Core stack: React | Next JS | Typescript
 * Mainly focused on Frontend & FullStack
 * BMSTU Student ICS5 (3rd year)
-* I am open to getting involved in new interesting projects.
+* VK Education frontend student
+* I am open to getting involved in new interesting projects
 * Please write to the contacts below. I will be glad to any acquaintances and suggestions)
 
 ### 📫 Contacts
@@ -64,4 +65,11 @@
   <img src="https://skillicons.dev/icons?i=swagger" width="40" height="40" alt="Swagger"/>
   <img src="https://skillicons.dev/icons?i=json" width="40" height="40" alt="JSON"/>
 </div>
+
+<div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Robocotik" />
+
+</div>
+
 
